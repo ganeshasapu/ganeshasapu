@@ -1,6 +1,6 @@
-# Hi, my name is Ganesh Asapu
+# Hi, my name is Ganesh Asapu 👋
 
-## I am a 1st year CS student at UofT
+## I am a 1st year CS student at UofT 💻
 
 ## Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
