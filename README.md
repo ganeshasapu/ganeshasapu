@@ -1,6 +1,6 @@
 # Hi, my name is Ganesh Asapu 👋
 
-## I am a 1st year CS student at UofT 💻
+## I am a CS student at UofT 💻
 
 ## Some of my coding interests:
 
